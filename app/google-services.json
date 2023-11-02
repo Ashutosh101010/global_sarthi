@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982006995872",
+    "project_id": "sarthi-emi",
+    "storage_bucket": "sarthi-emi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982006995872:android:b485ddb0c09f410d7822c5",
+        "android_client_info": {
+          "package_name": "com.global.appsarthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQPgp9Axku4R3oXzHROa7WVRk9oEFECs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
